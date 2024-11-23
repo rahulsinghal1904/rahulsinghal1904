@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in **Computer S
 
 I specialize in **Machine Learning**, **AI**, and **Software Engineering**, working on impactful projects that push the boundaries of technology. Some highlights include:
 
-- **6+ publications** in IEEE Transactions.
+- **6+ publications** including in IEEE Transactions.
 - Hands-on experience with **TensorFlow**, **PyTorch**, and **AWS SageMaker**.
 - Building **scalable applications**, **cloud platforms**, and **machine learning systems**.
 
