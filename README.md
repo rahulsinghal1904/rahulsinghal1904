@@ -13,7 +13,7 @@ I specialize in **Machine Learning**, **AI**, and **Software Engineering**, work
 ## 🛠️ Technologies & Tools
 
 I'm skilled in the following programming languages, tools, and frameworks:
-- **Languages**: Python, C++, Java, JavaScript, TypeScript, Swift, MATLAB
+- **Languages**: Python, C++, Java, JavaScript, TypeScript, MATLAB
 - **Frameworks & Libraries**: 
   - **Web Development**: React.js, Django, Spring Boot, Flask, Node.js
   - **Machine Learning & AI**: TensorFlow, PyTorch, Keras, Scikit-learn, NLTK, OpenCV
@@ -22,11 +22,12 @@ I'm skilled in the following programming languages, tools, and frameworks:
 - **Machine Learning**:
   - **Techniques**: Supervised/Unsupervised Learning, Reinforcement Learning, Deep Learning, NLP (Natural Language Processing), Computer Vision
   - **ML Deployment**: AWS SageMaker, TensorFlow Serving, Flask APIs
-  - **Tools**: Jupyter Notebooks, GitHub Actions, MLflow, DVC (Data Version Control)
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis, MS SQL Server
-- **Version Control & Collaboration**: Git, GitHub, GitLab, Bitbucket, Jira, Confluence
-- **Other Tools**: Elasticsearch, Apache Kafka, Apache Spark, Hadoop, Selenium, TFS (Team Foundation Server)
-## 🔍 Current Focus
+  - **Tools**: Jupyter Notebooks, GitHub Actions, MLflow
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Version Control & Collaboration**: Git, GitHub, GitLab
+- **Other Tools**: Elasticsearch, Apache Kafka, Apache Spark, Hadoop, Selenium
+-
+- ## 🔍 Current Focus
 
 I'm actively working on applying my expertise to **innovative projects** with **collaborative teams** that strive to make a real-world impact. Whether it's designing AI systems, optimizing cloud infrastructure, or building scalable applications, I'm passionate about **leveraging technology to solve complex problems**.
 
