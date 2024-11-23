@@ -26,8 +26,8 @@ I'm skilled in the following programming languages, tools, and frameworks:
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 - **Version Control & Collaboration**: Git, GitHub, GitLab
 - **Other Tools**: Elasticsearch, Apache Kafka, Apache Spark, Hadoop, Selenium
--
-- ## 🔍 Current Focus
+
+## 🔍 Current Focus
 
 I'm actively working on applying my expertise to **innovative projects** with **collaborative teams** that strive to make a real-world impact. Whether it's designing AI systems, optimizing cloud infrastructure, or building scalable applications, I'm passionate about **leveraging technology to solve complex problems**.
 
