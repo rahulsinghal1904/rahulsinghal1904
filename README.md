@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rahul Singhal!
 
-Welcome to my GitHub profile! I'm currently pursuing my Master's in **Computer Science** at **NYU** (GPA 4.0/4.0), with a **B.Tech in Computer Science** from **Jaypee Institute of Information Technology** (GPA 9.2, First Division). I have **4+ years of hands-on experience** working with cutting-edge technologies at **Cahoot.AI**, **NYU Langone Health**, **AXA XL**, and more.
+Welcome to my GitHub profile! I'm currently pursuing my Master's in **Computer Science** at **NYU** (GPA 4.0/4.0), with a **B.Tech in Computer Science** from **Jaypee Institute of Information Technology** (GPA 9.2, First Division). I have **4+ years of hands-on experience** working with cutting-edge technologies at **Cahoot.AI**, **NYU Langone Health**, **AXA**, **MITACS Globalink Research**, and **IIT Madras - Govt. of India**.
 
 ## 💡 What I Do
 
