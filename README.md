@@ -20,8 +20,6 @@ If you’ve found my work helpful or inspiring, feel free to connect or support 
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Let's%20Connect!%20🚀;Always%20happy%20to%20collaborate%20🤝;Ping%20me%20anytime!%20💬&center=true&width=380&height=45">
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Let's+Connect!+🚀;Always+happy+to+collaborate+🤝;Ping+me+anytime!+💬)
 
 ---
