@@ -19,13 +19,26 @@ If you’ve found my work helpful or inspiring, feel free to connect:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Let's+Connect!+🚀;Always+happy+to+collaborate+🤝;Ping+me+anytime!+💬)
 
+<table>
+<tr>
+<td>
+
 You can support me here:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahulsingh5)
+<a href="https://buymeacoffee.com/rahulsingh5" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge"/>
+</a>
 
+</td>
 
-### 📊 GitHub Stats & Tech Usage
+<td>
+
+### 📊 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsinghal1904&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,nextjs,nodejs,swift,objectivec,r,matlab,aws,docker,kubernetes,git,linux,mysql,postgresql,mongodb,sqlite,redis,vscode,figma,tailwind,bootstrap,flask,django,pytorch,tensorflow,sklearn,opencv,fastapi,vercel,netlify" alt="Tech Stack" />
 </p>
+
+</td>
+</tr>
+</table>
