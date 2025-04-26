@@ -4,7 +4,7 @@
 
 If you’ve found my work helpful or inspiring, feel free to connect:
 
-<p align="left">
+<p align="center">
   <a href="mailto:rahulsinghal1904@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
@@ -19,7 +19,7 @@ If you’ve found my work helpful or inspiring, feel free to connect:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Let's+Connect!+🚀;Always+happy+to+collaborate+🤝;Ping+me+anytime!+💬)
 
-<table>
+<table align ="center">
 <tr>
 <td>
 
