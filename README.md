@@ -22,3 +22,10 @@ If you’ve found my work helpful or inspiring, feel free to connect:
 You can support me here:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahulsingh5)
+
+
+### 📊 GitHub Stats & Tech Usage
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsinghal1904&layout=compact&theme=radical" alt="Top Languages" />
+</p>
