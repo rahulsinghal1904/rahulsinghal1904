@@ -4,7 +4,7 @@
 
 If you’ve found my work helpful or inspiring, feel free to connect:
 
-<p align="center">
+<p align="left">
   <a href="mailto:rahulsinghal1904@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
