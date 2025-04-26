@@ -36,7 +36,7 @@ You can support me here:
 ### 📊 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,react,nextjs,nodejs,swift,objectivec,r,matlab,aws,docker,kubernetes,git,linux,mysql,postgresql,mongodb,sqlite,redis,vscode,figma,tailwind,bootstrap,flask,django,pytorch,tensorflow,sklearn,opencv,fastapi,vercel,netlify" alt="Tech Stack" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsinghal1904&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 </td>
