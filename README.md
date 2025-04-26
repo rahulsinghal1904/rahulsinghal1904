@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7FF00&center=true&width=435&lines=Hi%2C+I'm+Rahul+👋;Always+building%2C+always+learning!+💡)
 
 
-If you’ve found my work helpful or inspiring, feel free to connect or support me:
+If you’ve found my work helpful or inspiring, feel free to connect:
 
 <p align="left">
   <a href="mailto:rahulsinghal1904@gmail.com" target="_blank">
@@ -18,3 +18,7 @@ If you’ve found my work helpful or inspiring, feel free to connect or support 
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Let's+Connect!+🚀;Always+happy+to+collaborate+🤝;Ping+me+anytime!+💬)
+
+If you find it helpful, you can support me here:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rahulsingh5)
